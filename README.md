@@ -1,1 +1,5 @@
-# WaterWise-
+# WaterWise
+As part of our Advanced Management course, I had to propose a project idea therefore I propose a healthcare project i.e. a smart water bottle with a weight detection tool that helps us identify the consumption of water  through weight deficit. This bottle in collaboration with a web application tracks the consumption of water for a person and sets reminders to consume water whenever the consumer is deficient.
+I recognise the pivotal role that hydration plays in a consumer’s wellbeing and the dissatisfaction of existing manual tracking systems. To address this gap our team has developed a Smart hydration system around a technologically advanced water bottle and a seamlessly integration web application.
+The motivation behind this project lies in our commitment to preventive healthcare and foster a culture of well being, envisioning a positive societal impact which drove us not only to create a solution to measure water consumption but also actively encourages users to consume water.
+![image](https://github.com/JoshuaGodinho/WaterWise-/assets/69786791/abe272a5-405a-44f1-808e-b7aadd1b622e)
